@@ -1,0 +1,7 @@
+{
+    "name": "hospect/nova-poshta-api-2",
+    "description": "PHP class for API 2.0 ukrainian delivery company \"Nova Poshta\" forked from https://github.com/lis-dev/nova-poshta-api-2",
+    "license": "MIT",
+    "authors": [],
+    "require": {}
+}
